@@ -1,0 +1,17 @@
+/home/mehigh/PostgresUpdate/bin/Debug/netcoreapp3.1/PostgresUpdate
+/home/mehigh/PostgresUpdate/bin/Debug/netcoreapp3.1/PostgresUpdate.deps.json
+/home/mehigh/PostgresUpdate/bin/Debug/netcoreapp3.1/PostgresUpdate.runtimeconfig.json
+/home/mehigh/PostgresUpdate/bin/Debug/netcoreapp3.1/PostgresUpdate.runtimeconfig.dev.json
+/home/mehigh/PostgresUpdate/bin/Debug/netcoreapp3.1/PostgresUpdate.dll
+/home/mehigh/PostgresUpdate/bin/Debug/netcoreapp3.1/PostgresUpdate.pdb
+/home/mehigh/PostgresUpdate/bin/Debug/netcoreapp3.1/Newtonsoft.Json.dll
+/home/mehigh/PostgresUpdate/bin/Debug/netcoreapp3.1/Npgsql.dll
+/home/mehigh/PostgresUpdate/obj/Debug/netcoreapp3.1/PostgresUpdate.csprojAssemblyReference.cache
+/home/mehigh/PostgresUpdate/obj/Debug/netcoreapp3.1/PostgresUpdate.csproj.CoreCompileInputs.cache
+/home/mehigh/PostgresUpdate/obj/Debug/netcoreapp3.1/PostgresUpdate.AssemblyInfoInputs.cache
+/home/mehigh/PostgresUpdate/obj/Debug/netcoreapp3.1/PostgresUpdate.AssemblyInfo.cs
+/home/mehigh/PostgresUpdate/obj/Debug/netcoreapp3.1/PostgresUpdate.csproj.CopyComplete
+/home/mehigh/PostgresUpdate/obj/Debug/netcoreapp3.1/PostgresUpdate.dll
+/home/mehigh/PostgresUpdate/obj/Debug/netcoreapp3.1/PostgresUpdate.pdb
+/home/mehigh/PostgresUpdate/obj/Debug/netcoreapp3.1/PostgresUpdate.genruntimeconfig.cache
+/home/mehigh/PostgresUpdate/bin/Debug/netcoreapp3.1/Npgsql.Json.NET.dll
